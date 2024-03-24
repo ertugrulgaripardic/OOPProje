@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors\\kafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors\\kafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors2\\yeniaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors2\\yeniaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors2\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors2\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors2\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors2\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors2\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors2\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors2\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors2\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors2\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors2\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\constructors\\yeniinsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\constructors\\yeniinsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|c:\\users\\papiko\\desktop\\oopproje (1)\\oopproje\\oopproje\\classes\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2E5832-7497-4CD8-83FE-A0A5F175429D}|OOPProje\\OOPProje.csproj|solutionrelative:oopproje\\classes\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YeniAraba.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\YeniAraba.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors2\\YeniAraba.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\YeniAraba.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors2\\YeniAraba.cs",
+              "ViewState": "AQIAAAQAAABAAAAAAAARwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kasa.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Kasa.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors2\\Kasa.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Kasa.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors2\\Kasa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pencere.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Pencere.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors2\\Pencere.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Pencere.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors2\\Pencere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kapi.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Kapi.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors2\\Kapi.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Kapi.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors2\\Kapi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Model.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors2\\Model.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Model.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors2\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Marka.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors2\\Marka.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors2\\Marka.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors2\\Marka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kafa.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors\\Kafa.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors\\Kafa.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors\\Kafa.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors\\Kafa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Matematik.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Matematik.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Matematik.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Matematik.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Matematik.cs",
+              "ViewState": "AQIAAAAAAACA/v////8QwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Program.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Program.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Program.cs",
+              "RelativeToolTip": "OOPProje\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YeniInsan.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors\\YeniInsan.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Constructors\\YeniInsan.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Constructors\\YeniInsan.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Constructors\\YeniInsan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Insan.cs",
+              "RelativeDocumentMoniker": "OOPProje\\Classes\\Insan.cs",
+              "ToolTip": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\Classes\\Insan.cs",
+              "RelativeToolTip": "OOPProje\\Classes\\Insan.cs",
+              "ViewState": "AQIAAEsAAAAA/v////8cwF0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:54:49.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

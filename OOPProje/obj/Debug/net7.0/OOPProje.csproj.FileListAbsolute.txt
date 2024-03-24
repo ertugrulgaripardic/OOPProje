@@ -1,0 +1,29 @@
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.exe
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.deps.json
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.runtimeconfig.json
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.dll
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.pdb
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.AssemblyInfo.cs
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.dll
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\refint\OOPProje.dll
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.pdb
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.genruntimeconfig.cache
+C:\Users\Administrator\Documents\techcareer-netcore\OOPProje\OOPProje\obj\Debug\net7.0\ref\OOPProje.dll
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.exe
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.deps.json
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.runtimeconfig.json
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.dll
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\bin\Debug\net7.0\OOPProje.pdb
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.AssemblyInfoInputs.cache
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.AssemblyInfo.cs
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.csproj.CoreCompileInputs.cache
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.dll
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\refint\OOPProje.dll
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.pdb
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\OOPProje.genruntimeconfig.cache
+C:\Users\papiko\Desktop\OOPProje (1)\OOPProje\OOPProje\obj\Debug\net7.0\ref\OOPProje.dll

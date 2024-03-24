@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwVuK1oknjBKQkGAHZif1/ACxsH1QWPc4FpXPGTAxht0SmW6dSuxp8gicocwFTrwkj7u8wMpTMXFN40119wsiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\papiko\\Desktop\\OOPProje (1)\\OOPProje\\OOPProje\\OOPProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\papiko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\papiko\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\papiko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\papiko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
