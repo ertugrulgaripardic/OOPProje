@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPProje.Classes
 {
-    public class Matematik
+    public class Matematik :object
     {
 
         //2 tane parametre alan ve geriye int tipinde değer dönen adı topla olan bir metod tanımı

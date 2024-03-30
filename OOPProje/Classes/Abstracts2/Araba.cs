@@ -8,6 +8,8 @@ namespace OOPProje.Classes.Abstracts2
 {
     public abstract class Araba
     {
+        public string marka;
+        public string model;
 
         public abstract double harcananBenzinNedir();
     }
